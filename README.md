@@ -29,5 +29,5 @@ i test this example but i write in code 1 examble for each function
 
 * Describe any tests that you did not complete, skipped, etc
 All completed
-
-[Pull Requests]()
+## Pull Requests Link
+[math-series Pull Requests Link](https://github.com/firas1awadallah/math-series/pull/1)
